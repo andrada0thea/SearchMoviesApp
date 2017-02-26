@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">SearchMoviesApp</string>
+    <string name="search">Search</string>
+    <string name="back">Go back</string>
+    <string name="title">Search here</string>
+    <string name="hint">Enter a movie title</string>
+    <string name="title_activity_cinemas_to_location">Map</string>
+    <string name="map_search">Show cinemas</string>
+</resources>
